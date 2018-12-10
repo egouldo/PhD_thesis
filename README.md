@@ -41,6 +41,7 @@ Below are a list of all assets related to the thesis, including links to reposit
 ### 6. Adaptive Pre-registration, a case study: Environmental Flow Modelling
 
 - Status: TBC
+- Repository: [https://github.com/egouldo/ReplicatingEcoConsDecisions](https://github.com/egouldo/ReplicatingEcoConsDecisions)
 
 ### Discussion and Conclusions
 
